@@ -1,0 +1,16 @@
+{
+  "name": "npm-install-example",
+  "version": "1.0.0",
+  "description": "Example project of how to install npm package from organization.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Liu <zliu011@beckman.com> (https://github.com/louis-bec)",
+  "license": "MIT",
+  "dependencies": {
+    "@BeclsFlow/panda-data-collector": "0.0.0"
+  }
+}
